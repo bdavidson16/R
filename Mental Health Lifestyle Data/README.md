@@ -1,6 +1,6 @@
 This analysis attempts to find trends between lifestyles and mental health.
 
-#Data Info:
+# Data Info:
 ## Columns:
 
 - Country
@@ -28,6 +28,6 @@ There are 3000 rows with no null values.
 
 # Conclusion:
 
-1. The correlation coefficients show a *weak* correlation, if any, between the lifestyle and mental health terms: happiness score, sleep hours, screen time, social interaction, and age.
-2. Also, the regression model *did not show* a significance between these variables and predicting their happiness scores.
-3. Lastly, the calculated averages of each sub-populations *did not show* any significant change of happiness levels withint the sub-populations.
+1. The correlation coefficients show a ***weak*** correlation, if any, between the lifestyle and mental health terms: happiness score, sleep hours, screen time, social interaction, and age.
+2. Also, the regression model ***did not show*** a significance between these variables and predicting their happiness scores.
+3. Lastly, the calculated averages of each sub-populations ***did not show*** any significant change of happiness levels withint the sub-populations.
