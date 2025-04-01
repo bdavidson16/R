@@ -1,6 +1,6 @@
 This analysis attempts to find trends between lifestyles and mental health.
 
-# Data Info:
+# [Data](https://github.com/bdavidson16/R/blob/main/Mental%20Health%20Lifestyle%20Data/Mental_Health_Lifestyle_Dataset.xls) Info:
 ## Columns:
 
 - Country
