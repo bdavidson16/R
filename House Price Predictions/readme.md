@@ -6,7 +6,7 @@ Home buyers and sellers can accurately negociate offers. Real estate agents can 
 # [Data]():
 
 
-# Outline of [Summary Report]():
+# Outline of [Summary Report](https://github.com/bdavidson16/R/blob/main/House%20Price%20Predictions/Project%20Summary%20Report.pdf):
 - Intro
 - Data Prepping
 - Model 1: First Order Regression
