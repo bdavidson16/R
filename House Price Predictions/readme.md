@@ -1,4 +1,4 @@
-This [R analysis]() focuses on housing features and how they affect the price. We use regression models and a nested F-test to not only find out which features of a house affect the price the most, but to also find out which model is best to use in this situation.
+This [R analysis](https://github.com/bdavidson16/R/blob/main/House%20Price%20Predictions/House%20Price%20Predictions%20MAT%20303%20Project.ipynb) focuses on housing features and how they affect the price. We use regression models and a nested F-test to not only find out which features of a house affect the price the most, but to also find out which model is best to use in this situation.
 
 *Why*?
 
