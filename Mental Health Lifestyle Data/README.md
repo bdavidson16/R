@@ -18,7 +18,7 @@ This analysis attempts to find trends between lifestyles and mental health.
 
 There are 3000 rows with no null values. 
 
-# Analysis
+# [Analysis](https://github.com/bdavidson16/R/blob/main/Mental%20Health%20Lifestyle%20Data/Mental%20Health%20Data.ipynb)
 
 - Correlation between happiness score, sleep hours, screen time, social interaction, and age
 - Scatterplots of correlations
