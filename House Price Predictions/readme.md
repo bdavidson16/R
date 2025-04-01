@@ -1,6 +1,7 @@
 This analysis focuses on housing features and how they affect the price. We use regression models and a nested F-test to not only find out which features of a house affect the price the most, but to also find out which model is best to use in this situation.
 
 *Why*?
+
 Home buyers and sellers can accurately negociate offers. Real estate agents can understand the houses they are selling and looking for. As well as government officials can use this information to form policies on housing assistance. There are so many more uses with this informaiton.
 
 # Outline:
